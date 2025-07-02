@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
         <div className="row justify-content-center align-items-start">
           {/* Sol Sütun: İletişim Formu */}
           <div className="col-md-5 text-start">
-            <form>
+            <form action="https://formspree.io/f/mvgrypzb" method="POST">
               <div className="mb-3">
                 <label htmlFor="email" className="form-label">Your Email Address</label>
                 <input type="email" className="form-control" id="email" placeholder="yourname@example.com" />

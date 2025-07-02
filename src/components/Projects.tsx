@@ -107,13 +107,11 @@ const Projects: React.FC = () => {
           {/* Proje Kartı 1 */}
           <div className="col">
             <div className="card h-100">
-              <img src="https://via.placeholder.com/300x200" className="card-img-top" alt="Proje 1" />
               <div className="card-body d-flex flex-column">
-                <h5 className="card-title">Project Name 1</h5>
-                <p className="card-text">This project is a web application developed using React and TypeScript. It stands out with its user-friendly interface and modern design.</p>
+                <h5 className="card-title">Kitap Önerilerim</h5>
+                <p className="card-text">This app focuses on personalized book recommendations, helping users discover new reads tailored to their interests. Users can browse, search, add favorites, and explore curated lists. *The project is still under development.*</p>
                 <div className="mt-auto">
-                  <a href="#" className="btn btn-primary me-2">Details</a>
-                  <a href="#" className="btn btn-outline-light">GitHub</a>
+                  <a href="#" className="btn btn-primary me-2">Loading..</a>
                 </div>
               </div>
             </div>
@@ -122,13 +120,11 @@ const Projects: React.FC = () => {
           {/* Proje Kartı 2 */}
           <div className="col">
             <div className="card h-100">
-              <img src="https://via.placeholder.com/300x200" className="card-img-top" alt="Proje 2" />
               <div className="card-body d-flex flex-column">
-                <h5 className="card-title">Project Name 2</h5>
-                <p className="card-text">This is a REST API project developed with Python and FastAPI. It features database integration and secure authentication.</p>
+                <h5 className="card-title">Pinterest Clone</h5>
+                <p className="card-text">Real-time Android app using Firebase and Unsplash API. Users can register, log in, upload photos, and download images to their devices.</p>
                 <div className="mt-auto">
-                  <a href="#" className="btn btn-primary me-2">Details</a>
-                  <a href="#" className="btn btn-outline-light">GitHub</a>
+                  <a href="https://github.com/msamedcagli/PinterestApp" className="btn btn-outline-light">GitHub</a>
                 </div>
               </div>
             </div>
@@ -137,13 +133,11 @@ const Projects: React.FC = () => {
           {/* Proje Kartı 3 */}
           <div className="col">
             <div className="card h-100">
-              <img src="https://via.placeholder.com/300x200" className="card-img-top" alt="Proje 3" />
               <div className="card-body d-flex flex-column">
-                <h5 className="card-title">Project Name 3</h5>
-                <p className="card-text">This is a static website project created using HTML, CSS, and JavaScript, with a mobile-friendly interface.</p>
+                <h5 className="card-title">Whatsapp Clone</h5>
+                <p className="card-text">This project is a real-time messaging app built with modern Android technologies and Firebase. Users can register, log in, start conversations, and send messages.</p>
                 <div className="mt-auto">
-                  <a href="#" className="btn btn-primary me-2">Details</a>
-                  <a href="#" className="btn btn-outline-light">GitHub</a>
+                  <a href="https://github.com/msamedcagli/ChatGPT_Clone" className="btn btn-outline-light">GitHub</a>
                 </div>
               </div>
             </div>
