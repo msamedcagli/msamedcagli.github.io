@@ -269,13 +269,13 @@ section p.lead {
 }
 
 .btn-primary {
-  background-color: #6c757d; /* Gri tonu */
-  border-color: #6c757d;
+  background-color: #007bff;
+  border-color: #007bff;
 }
 
 .btn-primary:hover {
-  background-color: #5a6268; /* Koyu gri tonu */
-  border-color: #5a6268;
+  background-color: #0056b3;
+  border-color: #0056b3;
 }
 
 .btn-outline-light {
@@ -286,6 +286,16 @@ section p.lead {
 .btn-outline-light:hover {
   background-color: #007bff; /* Mavi tonu */
   color: #e0e0e0;
+}
+
+.btn-loading-gray {
+  background-color: #6c757d; /* Gri tonu */
+  border-color: #6c757d;
+}
+
+.btn-loading-gray:hover {
+  background-color: #5a6268; /* Koyu gri tonu */
+  border-color: #5a6268;
 }
 
 /* İletişim bölümü */

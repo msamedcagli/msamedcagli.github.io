@@ -111,7 +111,7 @@ const Projects: React.FC = () => {
                 <h5 className="card-title">Kitap Önerilerim</h5>
                 <p className="card-text">This app focuses on personalized book recommendations, helping users discover new reads tailored to their interests. Users can browse, search, add favorites, and explore curated lists. *The project is still under development.*</p>
                 <div className="mt-auto">
-                  <a href="#" className="btn btn-primary me-2">Loading..</a>
+                  <a href="#" className="btn btn-loading-gray me-2">Loading..</a>
                 </div>
               </div>
             </div>
