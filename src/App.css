@@ -141,15 +141,19 @@ section p.lead {
 /* Mobil uyumluluk için medya sorguları */
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 3rem; /* Mobil için daha küçük */
+    font-size: 2.5rem; /* Mobil için daha küçük */
   }
 
   #hero p.lead {
-    font-size: 1.5rem; /* Mobil için daha küçük */
+    font-size: 1.2rem; /* Mobil için daha küçük */
   }
 
   section h2 {
-    font-size: 2rem; /* Mobil için daha küçük */
+    font-size: 1.8rem; /* Mobil için daha küçük */
+  }
+
+  section p.lead {
+    font-size: 1rem; /* Mobil için daha küçük */
   }
 }
 
@@ -265,23 +269,23 @@ section p.lead {
 }
 
 .btn-primary {
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #6c757d; /* Gri tonu */
+  border-color: #6c757d;
 }
 
 .btn-primary:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
+  background-color: #5a6268; /* Koyu gri tonu */
+  border-color: #5a6268;
 }
 
 .btn-outline-light {
-  color: #e0e0e0;
-  border-color: #e0e0e0;
+  color: #007bff; /* Mavi tonu */
+  border-color: #007bff;
 }
 
 .btn-outline-light:hover {
-  background-color: #e0e0e0;
-  color: #1a1a1a;
+  background-color: #007bff; /* Mavi tonu */
+  color: #e0e0e0;
 }
 
 /* İletişim bölümü */

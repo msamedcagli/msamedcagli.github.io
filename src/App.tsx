@@ -39,7 +39,7 @@ function App() {
         });
       },
       {
-        threshold: 0.6, // %60'ı görünür olduğunda tetikle
+        threshold: 0.2, // %20'si görünür olduğunda tetikle (mobil için daha iyi)
       }
     );
 
