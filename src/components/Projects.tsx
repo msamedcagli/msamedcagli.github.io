@@ -48,7 +48,7 @@ const Projects: React.FC = () => {
                 <div className="mb-3">
                   <h6 className="mb-1">HTML&CSS</h6>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" style={{ width: '75%' }} aria-valuenow={75} aria-valuemin={0} aria-valuemax={100}>75%</div>
+                    <div className="progress-bar" role="progressbar" style={{ width: '65%' }} aria-valuenow={65} aria-valuemin={0} aria-valuemax={100}>65%</div>
                   </div>
                 </div>
                 <div className="mb-3">
@@ -88,13 +88,13 @@ const Projects: React.FC = () => {
                 <div className="mb-3">
                   <h6 className="mb-1">Firebase</h6>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" style={{ width: '85%' }} aria-valuenow={85} aria-valuemin={0} aria-valuemax={100}>85%</div>
+                    <div className="progress-bar" role="progressbar" style={{ width: '75%' }} aria-valuenow={75} aria-valuemin={0} aria-valuemax={100}>75%</div>
                   </div>
                 </div>
                 <div className="mb-3">
                   <h6 className="mb-1">AWS (EC2, S3)</h6>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" style={{ width: '70%' }} aria-valuenow={70} aria-valuemin={0} aria-valuemax={100}>70%</div>
+                    <div className="progress-bar" role="progressbar" style={{ width: '60%' }} aria-valuenow={60} aria-valuemin={0} aria-valuemax={100}>60%</div>
                   </div>
                 </div>
               </div> {/* Closes card-body */}
