@@ -111,7 +111,7 @@ const Projects: React.FC = () => {
                 <h5 className="card-title">Kitap Önerilerim</h5>
                 <p className="card-text">This app focuses on personalized book recommendations, helping users discover new reads tailored to their interests. Users can browse, search, add favorites, and explore curated lists. *The project is still under development.*</p>
                 <div className="mt-auto ms-3">
-                  <a href="#" className="btn btn-loading-gray me-2">Loading..</a>
+                  <a href="https://github.com/msamedcagli/KitapOnerileriApp" className="btn btn-outline-light">GitHub</a>
                 </div>
               </div>
             </div>
@@ -137,7 +137,7 @@ const Projects: React.FC = () => {
                 <h5 className="card-title">Whatsapp Clone</h5>
                 <p className="card-text">This project is a real-time messaging app built with modern Android technologies and Firebase. Users can register, log in, start conversations, and send messages.</p>
                 <div className="mt-auto ms-3">
-                  <a href="https://github.com/msamedcagli/ChatGPT_Clone" className="btn btn-outline-light">GitHub</a>
+                  <a href="https://github.com/msamedcagli/ChattingApp" className="btn btn-outline-light">GitHub</a>
                 </div>
               </div>
             </div>
