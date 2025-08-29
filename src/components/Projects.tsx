@@ -109,7 +109,7 @@ const Projects: React.FC = () => {
             <div className="card h-100">
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title">Kitap Önerilerim</h5>
-                <p className="card-text">This app focuses on personalized book recommendations, helping users discover new reads tailored to their interests. Users can browse, search, add favorites, and explore curated lists. *The project is still under development.*</p>
+                <p className="card-text">This app focuses on personalized book recommendations, helping users discover new reads tailored to their interests. Users can browse, search, add favorites, and explore curated lists.</p>
                 <div className="mt-auto ms-3">
                   <a href="https://github.com/msamedcagli/KitapOnerileriApp" className="btn btn-outline-light">GitHub</a>
                 </div>
