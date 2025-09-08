@@ -2,7 +2,7 @@ import React from 'react';
 import TypingEffect from './TypingEffect.tsx';
 
 const Hero: React.FC = () => {
-  const professions = ["I'm a Software Developer","I'm a Computer Eng. Student"];
+  const professions = ["I'm a Software Developer","I'm a Computer Engineer"];
 
   const scrollToAbout = () => {
     document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' });
