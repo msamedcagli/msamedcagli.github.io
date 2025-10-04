@@ -1,5 +1,5 @@
 import React from 'react';
-import TypingEffect from './TypingEffect.tsx';
+import TypingEffect from './TypingEffect';
 
 const Hero: React.FC = () => {
   const professions = ["I'm a Software Developer","I'm a Computer Engineer"];

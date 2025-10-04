@@ -143,6 +143,41 @@ const Projects: React.FC = () => {
             </div>
           </div>
 
+          <div className="col">
+            <div className="card h-100">
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">Intel Image Classification</h5>
+                <p className="card-text">This repo contains a project prepared within the scope of Akbank "Introduction to Deep Learning" Bootcamp.The purpose of the project is to classify images using the Intel Image Classification dataset.</p>
+                <div className="mt-auto ms-3">
+                  <a href="https://github.com/msamedcagli/IntelImageClassification" className="btn btn-outline-light">GitHub</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="col">
+            <div className="card h-100">
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">Fire Sensor Arduino</h5>
+                <p className="card-text">This project was developed as part of the Microprocessors course to enhance programming skills. It was implemented using the C++ programming language. The main objective of the project is to process data obtained from gas and temperature sensors, and activate an alarm system via the Arduino board when certain threshold values are exceeded.</p>
+                <div className="mt-auto ms-3">
+                  <a href="https://github.com/msamedcagli/FireSensorArduino" className="btn btn-outline-light">GitHub</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="col">
+            <div className="card h-100">
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">Home Assistant</h5>
+                <p className="card-text">This project is a modern and user-friendly interface developed with React for a smart home system. The system enables easy control and monitoring of home automation components.</p>
+                <div className="mt-auto ms-3">
+                  <a href="https://github.com/msamedcagli/HomeAssistant" className="btn btn-outline-light">GitHub</a>
+                </div>
+              </div>
+            </div>
+          </div>
           {/* Daha fazla proje eklenebilir */}
         </div>
       </div>
